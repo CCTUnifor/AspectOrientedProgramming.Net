@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOP.NET", "AOP.NET\AOP.NET.csproj", "{DD598BE7-1AC1-4ABD-B5CE-7EFA58A34872}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOP.NET.ConsoleApp", "AOP.NET.ConsoleApp\AOP.NET.ConsoleApp.csproj", "{F01533EF-492C-4854-9075-E8AA9AE347C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD598BE7-1AC1-4ABD-B5CE-7EFA58A34872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD598BE7-1AC1-4ABD-B5CE-7EFA58A34872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD598BE7-1AC1-4ABD-B5CE-7EFA58A34872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD598BE7-1AC1-4ABD-B5CE-7EFA58A34872}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F01533EF-492C-4854-9075-E8AA9AE347C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F01533EF-492C-4854-9075-E8AA9AE347C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F01533EF-492C-4854-9075-E8AA9AE347C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F01533EF-492C-4854-9075-E8AA9AE347C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F3E906A-6F2C-42D5-8E76-0F63A814E4BC}
+	EndGlobalSection
+EndGlobal
