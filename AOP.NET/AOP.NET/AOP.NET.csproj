@@ -2,6 +2,10 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Thiago Maia</Authors>
+    <Company>CCT Unifor</Company>
+    <PackageTags>C# AOP Aspect-Oriented-Programming Computer-Science</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
