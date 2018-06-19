@@ -1,4 +1,4 @@
-﻿namespace AOP.NET.ConsoleApp
+﻿namespace AOP.NET.Domain.Interfaces.Repositories
 {
     public interface IRepository<T>
     {

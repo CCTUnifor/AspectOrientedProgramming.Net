@@ -1,4 +1,4 @@
-﻿namespace AOP.NET.ConsoleApp
+﻿namespace AOP.NET.Domain.Entities
 {
     public class Customer
     {

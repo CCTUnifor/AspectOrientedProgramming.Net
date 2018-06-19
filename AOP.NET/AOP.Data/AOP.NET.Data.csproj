@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>AOP.NET.Data</AssemblyName>
+    <RootNamespace>AOP.NET.Data</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AOP.Domain\AOP.NET.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

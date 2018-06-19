@@ -1,18 +1,12 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
-
-  <ItemGroup>
-    <PackageReference Include="Ninject" Version="3.3.4" />
-  </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\AOP.Data\AOP.NET.Data.csproj" />
     <ProjectReference Include="..\AOP.Domain\AOP.NET.Domain.csproj" />
-    <ProjectReference Include="..\AOP.NET.Aspects\AOP.NET.Aspects.csproj" />
     <ProjectReference Include="..\AOP.NET\AOP.NET.csproj" />
   </ItemGroup>
 
